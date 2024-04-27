@@ -50,3 +50,17 @@ public class Type {
     }
     
 }
+
+
+/*
+ *  OUTPUT :
+ *  true
+ *   true
+ *   false
+ *   Type of a -> Integer
+ *   java.lang.Integer
+ *   class java.lang.Integer
+ *   String
+ *   java.lang.String
+ *   class java.lang.String
+ */
