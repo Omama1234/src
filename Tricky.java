@@ -7,3 +7,9 @@ public class Tricky {
         System.out.println(s);
     }
 }
+
+/** OUTPUT : 
+* NAMASTE DUNIYA
+* 14j2021
+* j
+*/
