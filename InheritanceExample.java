@@ -13,9 +13,9 @@ class Child extends Parent{
 public class InheritanceExample {
 
     public static void main(String[] args) {
-        
+
         Parent p = new Child();
-        p.display();
+        p.display(); // Child class displa will be called
     }
     
 }
